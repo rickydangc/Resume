@@ -16,4 +16,4 @@ https://github.com/coolwanglu/pdf2htmlEX
 
 Set your GitHub Page source to master branch，then save.
 
-> go to URL: https://<github-username>.github.io/resume
+> go to URL: https://github-username.github.io/resume
